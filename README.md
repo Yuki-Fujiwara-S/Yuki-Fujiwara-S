@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
+## My name is Yuki and I am a Software Developer 
 
--->
 
 - 🔭 I’m currently working on a dog identifying app using tensor flow!
 - 🌱 I’m currently learning React, TypeScript and leveling up my CSS skills
