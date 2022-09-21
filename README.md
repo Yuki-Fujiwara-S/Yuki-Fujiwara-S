@@ -10,6 +10,11 @@
 - ⚡ Fun fact: I know how to say "I like cheese" in 10+ languages.
 <!-- 
 [![Yuki's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuki-fujiwara-s)](https://github.com/yuki-fujiwara-s/github-readme-stats)
+
+
+TODO:
+- Add Tools and Technologies section
+- Add Blogs and writing section
 -->
 
 <a href="https://github.com/Yuki-Fujiwara-S/Yuki-Fujiwara-S">
