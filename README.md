@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My name is Yuki and I am a Software Developer turned Product Manager
-## Currently looking for customer facing roles at companies at the intersection of Technology and Sustainability
+Currently looking for customer facing roles at companies at the intersection of Technology and Sustainability
 
 
 - 🔭 I’m currently working on a dog identifying app using tensor flow!
